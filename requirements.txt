@@ -1,0 +1,7 @@
+selenium-driverless
+pandas
+openpyxl 
+pillow 
+pyautogui 
+opencv-python
+bs4
